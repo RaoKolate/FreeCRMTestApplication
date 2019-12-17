@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="146286" started-at="2019-12-05T10:36:02Z" finished-at="2019-12-05T10:38:28Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="146286" started-at="2019-12-05T10:36:02Z" finished-at="2019-12-05T10:38:28Z">
+      <class name="com.qa.Test.Testcases.ContactpageTest">
+        <test-method status="PASS" signature="beforePageLode()[pri:0, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="beforePageLode" is-config="true" duration-ms="20360" started-at="2019-12-05T10:36:02Z" finished-at="2019-12-05T10:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePageLode -->
+        <test-method status="PASS" signature="verifyConatcspageLable()[pri:1, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="verifyConatcspageLable" duration-ms="110" started-at="2019-12-05T10:36:22Z" finished-at="2019-12-05T10:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConatcspageLable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-12-05T10:36:22Z" finished-at="2019-12-05T10:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforePageLode()[pri:0, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="beforePageLode" is-config="true" duration-ms="21641" started-at="2019-12-05T10:36:46Z" finished-at="2019-12-05T10:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePageLode -->
+        <test-method status="PASS" signature="ClickonNewButtonTest()[pri:2, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="ClickonNewButtonTest" duration-ms="407" started-at="2019-12-05T10:37:08Z" finished-at="2019-12-05T10:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonNewButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-12-05T10:37:08Z" finished-at="2019-12-05T10:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforePageLode()[pri:0, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="beforePageLode" is-config="true" duration-ms="28035" started-at="2019-12-05T10:37:51Z" finished-at="2019-12-05T10:38:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePageLode -->
+        <test-method status="PASS" signature="validateCreateNewConatctTest()[pri:3, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="validateCreateNewConatctTest" duration-ms="9622" started-at="2019-12-05T10:38:19Z" finished-at="2019-12-05T10:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewConatctTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.Test.Testcases.ContactpageTest@6b2fad11]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-12-05T10:38:28Z" finished-at="2019-12-05T10:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.Test.Testcases.ContactpageTest -->
+      <class name="com.qa.Test.Testcases.HomePageTest">
+        <test-method status="PASS" signature="beforePageLode()[pri:0, instance:com.qa.Test.Testcases.HomePageTest@79698539]" name="beforePageLode" is-config="true" duration-ms="30457" started-at="2019-12-05T10:37:08Z" finished-at="2019-12-05T10:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePageLode -->
+        <test-method status="PASS" signature="PerformLoginTestCase()[pri:2, instance:com.qa.Test.Testcases.HomePageTest@79698539]" name="PerformLoginTestCase" duration-ms="6589" started-at="2019-12-05T10:37:39Z" finished-at="2019-12-05T10:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PerformLoginTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.Test.Testcases.HomePageTest@79698539]" name="tearDown" is-config="true" duration-ms="5119" started-at="2019-12-05T10:37:45Z" finished-at="2019-12-05T10:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.Test.Testcases.HomePageTest -->
+      <class name="com.qa.Test.Testcases.LoginPageTest">
+        <test-method status="PASS" signature="beforePageLode()[pri:0, instance:com.qa.Test.Testcases.LoginPageTest@73f792cf]" name="beforePageLode" is-config="true" duration-ms="22021" started-at="2019-12-05T10:36:22Z" finished-at="2019-12-05T10:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePageLode -->
+        <test-method status="PASS" signature="PerformLoginTestCase()[pri:1, instance:com.qa.Test.Testcases.LoginPageTest@73f792cf]" name="PerformLoginTestCase" duration-ms="750" started-at="2019-12-05T10:36:44Z" finished-at="2019-12-05T10:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PerformLoginTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.Test.Testcases.LoginPageTest@73f792cf]" name="tearDown" is-config="true" duration-ms="1096" started-at="2019-12-05T10:36:45Z" finished-at="2019-12-05T10:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.Test.Testcases.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
